@@ -6,6 +6,7 @@ The Bassi gantry system utilizes a single microscopical camera with low magnific
 
 For this project, our goal is to develop a more precise system and advance technology for PBA. 
 
+
 ### 2. Take images pre-process the image and mark the bounderies.
 
 1. Capture images and save in seperate folder
@@ -15,6 +16,6 @@ For this project, our goal is to develop a more precise system and advance techn
 5. Mesure the distance it moves using that
    
 
-
+### 3. Measure the actual distance of the 
 
 
