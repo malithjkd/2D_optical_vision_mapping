@@ -9,11 +9,13 @@ For this project, our goal is to develop a more precise system and advance techn
 
 ### 2. Take images pre-process the image and mark the bounderies.
 
+[pre process images](https://github.com/malithjkd/2D_optical_vision_mapping/blob/main/pre_process_images.ipynb)
+
 1. Capture images and save in seperate folder
 2. Load images and study forcus enough of not
 3. If forcus create bounderies
 4. Transfer the bounderies and mark in black and white
-5. Mesure the distance it moves using that
+5. Mesure the distance bitween bounderies
    
 
 ### 3. Measure the actual distance of the 
